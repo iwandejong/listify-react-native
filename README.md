@@ -16,3 +16,6 @@ You will be set if you follow all the instructions!
 
 ## Files on Github
 The files on this repository are just for illustration purposes and you can view them to see how I coded the app with React Native.
+
+### Adobe XD Designs
+Adobe XD designs are also attached, should you be interested to see the wireframe design.
